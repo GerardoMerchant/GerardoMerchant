@@ -5,7 +5,7 @@
 
 - 💬 Preguntame sobre: **PHP, HTML, JavaScript**
 
-- 📫 Como contactarme: **gerardmerchant117@gmial.com**
+- 📫 Como contactarme: **gerardmerchant117@gmail.com**
 
 <p align="left">
 </p>
