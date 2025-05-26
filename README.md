@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, Me llamo Gerardo Merchant Niño.</h1>
 <h3 align="center">Soy un desarrollador web apasionado.</h3>
 
-- 👨‍💻 Todos mis proyectos estan disponibles en: [example.com](example.com)
+- 👨‍💻 Todos mis proyectos estan disponibles en: [https://gerardomerchant.github.io/gmn-portafolio/](https://gerardomerchant.github.io/gmn-portafolio/)
 
-- 💬 Preguntame sobre: **PHP, HTML, JavaScript**
+- 💬 Preguntame sobre: **Sistemas con PHP, creación de paginas web con HTML, CSS, JavaScript y mas.**
 
 - 📫 Como contactarme: **gerardmerchant117@gmail.com**
 
